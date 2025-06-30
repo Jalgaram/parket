@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/parket/static/css/main.153c8b98.css",
+    "main.css": "/parket/static/css/main.ac812a6e.css",
     "main.js": "/parket/static/js/main.f4aa5d39.js",
     "static/js/453.d728f499.chunk.js": "/parket/static/js/453.d728f499.chunk.js",
     "static/media/sidebanner.jpg": "/parket/static/media/sidebanner.0198555c84926f11956e.jpg",
     "index.html": "/parket/index.html",
-    "main.153c8b98.css.map": "/parket/static/css/main.153c8b98.css.map",
+    "main.ac812a6e.css.map": "/parket/static/css/main.ac812a6e.css.map",
     "main.f4aa5d39.js.map": "/parket/static/js/main.f4aa5d39.js.map",
     "453.d728f499.chunk.js.map": "/parket/static/js/453.d728f499.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.153c8b98.css",
+    "static/css/main.ac812a6e.css",
     "static/js/main.f4aa5d39.js"
   ]
 }
